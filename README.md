@@ -1,0 +1,1 @@
+More practice with django framework
